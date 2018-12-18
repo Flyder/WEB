@@ -3,10 +3,6 @@ body, html {
   padding:0px;
   background-image: url(3.jpg)
 }
-.main{
-  margin:0 auto; 
-  width:100%; 
-}
 #col1{
   width: calc(100%/3);
   float:left;
